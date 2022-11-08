@@ -30,6 +30,11 @@
 }
 
 * {
-    background-color: coral;
+    background-color: #E6EEFF;
 }
 
+.titulo {
+    margin-left: 20%;
+    font-size: 30px;
+
+}
